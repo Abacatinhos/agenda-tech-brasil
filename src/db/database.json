@@ -1294,6 +1294,18 @@
               "cidade": "Foz do Iguaçu",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC 2025 SÃO PAULO",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
