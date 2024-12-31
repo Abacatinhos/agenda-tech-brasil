@@ -1211,6 +1211,22 @@
           ]
         },
         {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Brasília - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
