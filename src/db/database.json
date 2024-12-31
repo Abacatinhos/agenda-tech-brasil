@@ -1211,6 +1211,22 @@
           ]
         },
         {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "BSidesRJ - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://bsidesrj.com.br/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
