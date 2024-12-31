@@ -1207,6 +1207,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "FortalSec - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.fortalsec.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
             }
           ]
         },
