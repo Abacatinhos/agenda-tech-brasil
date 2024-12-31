@@ -1199,6 +1199,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Hack In Cariri - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344",
+              "cidade": "Juazeiro Do Norte",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
                 "20"
