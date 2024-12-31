@@ -1243,6 +1243,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "BSidesSP - 2025",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://securitybsides.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025",
               "data": [
                 "19",
