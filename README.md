@@ -58,6 +58,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 06: [AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG](https://www.meetup.com/engenharia-dados-academy/events/305898094) - _Brasilia/DF_ ![presencial]
 - 06: [Encontro de Fevereiro no Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/305843538) - _São Paulo/SP_ ![presencial]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
+- 08: [Confraria ZN - Bitcoin & web3](https://www.meetup.com/confrariaweb3/events/306059999) - _São Paulo/SP_ ![presencial]
 - 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
 - 11: [FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras](https://www.meetup.com/fiapmeetups/events/305991139/) - _São Paulo/SP_ ![presencial]
 - 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]

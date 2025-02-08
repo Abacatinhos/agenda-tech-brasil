@@ -1489,6 +1489,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Confraria ZN - Bitcoin & web3",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/306059999",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Crie Testes Unitários e Documentação com GitHub Copilot",
               "data": [
                 "11"
