@@ -1662,6 +1662,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup DevParaná Cascavel",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/306141325",
+              "cidade": "Cascavel",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
                 "20"
